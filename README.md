@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qkphan
 - 👀 I’m interested in python and kivy
-- 🌱 I’m currently learning how to draw 3D shapes and creating game for learning mathematics.
+- 🌱 I’m currently learning how to draw 3D shapes and creating games for learning mathematics.
 - 💞️ I’m looking to collaborate on this interest.
 - 📫 Please contact with me through my github or my email: phquangkhanh@gmail.com
